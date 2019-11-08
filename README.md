@@ -5,10 +5,17 @@ Como usar :
 Prompt de comando
 
 cd Django-Simple-CRUD-Sample
+
 python -m venv env
+
 env\Scripts\activate
+
 pip install -r requirements.txt
+
 manage.py migrate
+
 manage.py createsuperuser 
-manage.py runserver
+
+manage.py runserve
+r
 Abra URL http://localhost:8000
