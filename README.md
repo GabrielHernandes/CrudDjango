@@ -16,6 +16,6 @@ manage.py migrate
 
 manage.py createsuperuser 
 
-manage.py runserve
-r
+manage.py runserver
+
 Abra URL http://localhost:8000
